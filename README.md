@@ -1,5 +1,7 @@
 Hi, I’m @BCFeather, a junior high school student from Anhui, China.
 
+Less is more.
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
@@ -13,6 +15,7 @@ Currently learning C++ & Python. I am at school so it may be a little difficult 
 # how to contact me.
 Contact me to learn more about me! Email me at baocaozhe@foxmail.com. WeChat, QQ and Twitter are also available.
 
+# more information?
 And there is more about what I do on SatWiki.
 - Translate things from Gunter(https://space.skyrocket.de/).
 - Perfect the rules and regulations.
