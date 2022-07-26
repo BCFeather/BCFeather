@@ -13,6 +13,11 @@ Currently learning C++ & Python. I am at school so it may be a little difficult 
 # how to contact me.
 Contact me to learn more about me! Email me at baocaozhe@foxmail.com. WeChat, QQ and Twitter are also available.
 
+And there is more about what I do on SatWiki.
+- Translate things from Gunter(https://space.skyrocket.de/).
+- Perfect the rules and regulations.
+- Maybe more…
+
 <!---
 BCFeather/BCFeather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
