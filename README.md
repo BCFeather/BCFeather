@@ -22,7 +22,7 @@ And there is more about what I do on SatWiki.
 - Maybe more…
 
 # and my friends.
-- @yusancy.
+- @yusancky.
 
 <!---
 BCFeather/BCFeather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
