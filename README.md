@@ -1,4 +1,4 @@
-Hi, I’m @BCFeather, a junior high school student from Anhui, China.
+Hi, I’m **[@BCFeather ](https://github.com/BCFeather)**, a junior high school student from Anhui, China.
 
 Less is more.
 
@@ -9,7 +9,7 @@ Less is more.
 
 Here I will show you…
 # what I do.
-Working on SatWiki Chinese(https://sat.huijiwiki.com).
+Working on [SatWiki Chinese](https://sat.huijiwiki.com).
 # what I am learning.
 Currently learning C++ & Python. I am at school so it may be a little difficult to contact me.
 # how to contact me.
@@ -17,12 +17,12 @@ Contact me to learn more about me! Email me at baocaozhe@foxmail.com. WeChat, QQ
 
 # more information?
 And there is more about what I do on SatWiki.
-- Translate things from Gunter(https://space.skyrocket.de/).
+- Translate things from [Gunter](https://space.skyrocket.de/).
 - Perfect the rules and regulations.
 - Maybe more…
 
 # and my friends.
-- @yusancky.
+- **[@yusancky ](https://github.com/yusancky)**.
 
 <!---
 BCFeather/BCFeather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
