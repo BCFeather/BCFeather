@@ -14,7 +14,12 @@ Working on [SatWiki Chinese](https://sat.huijiwiki.com).
 Currently learning C++ & Python. I am at school so it may be a little difficult to contact me.
 # how to contact me.
 Contact me to learn more about me! Email me at baocaozhe@foxmail.com. WeChat, QQ and Twitter are also available.
-
+My accounts:
+1.WeChat: baocaozhe
+2.QQ: (Privacy)
+3.Weibo: (Privacy)
+4.Twitter: @baocaozhe
+5.Crowdin: @Bluewing
 # more information?
 And there is more about what I do on SatWiki.
 - Translate things from [Gunter](https://space.skyrocket.de/).
