@@ -25,7 +25,8 @@ And there is more about what I do on SatWiki.
 - Translate things from [Gunter](https://space.skyrocket.de/).
 - Perfect the rules and regulations.
 - Maybe more…
-
+# Things I am good at.
+- Losing my accounts. I have lost them for three times.
 # and my friends.
 - **[@yusancky ](https://github.com/yusancky)**.
 
