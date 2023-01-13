@@ -1,7 +1,5 @@
 Hi, I’m **[@BCFeather ](https://github.com/BCFeather)**, a junior high school student from Anhui, China.
 
-Less is more.
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
