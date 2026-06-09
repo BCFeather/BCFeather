@@ -11,13 +11,13 @@ Working on [SatWiki Chinese](https://sat.huijiwiki.com).
 # what I am learning.
 Currently learning C++ & Python. I am at school so it may be a little difficult to contact me.
 # how to contact me.
-Contact me to learn more about me! Email me at baocaozhe@foxmail.com. WeChat, QQ and Twitter are also available.
+Contact me to learn more about me! Email me at baocz2008@outlook.com. WeChat, QQ and X are also available.
 
 My accounts:
 - WeChat: baocaozhe
 - QQ: (Privacy)
 - Weibo: (Privacy)
-- Twitter: @baocaozhe
+- Twitter: @CaozheB72170
 - Crowdin: @Bluewing
 # things I am good at.
 - Losing my accounts. I have lost them three times.
