@@ -92,6 +92,6 @@ They are whispered in dialects, in kitchens, in villages, in accents that refuse
 Let the dialects live. Let the customs breathe. Let the 'embarrassing provinces' speak. Within their voices, we may hear not just echoes of the past, but solutions to the problems of tomorrow.
 
 # Are we pushing ourselves too hard?
-East Asia is famous for its overpopulation. There is, of course, no denial that more people boost business, but too many of them bring about intense competitions.
+East Asia is famous for its overpopulation. There is, of course, no denial that a larger population boosts business, but too many people bring about intense competitions.
 
 **Coming soon**
