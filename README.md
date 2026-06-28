@@ -23,8 +23,6 @@ Sure, highways cut through the hills now. The University of Science and Technolo
 
 Complaining solves nothing. Everyone knows that. Absolute equality is a fairy tale for preschoolers. But I've spent three years of high school outworking many privileged people from the east. I don't have their fancy accents or their curated extracurriculars, but my brain moves just as fast. I am not *that* hard-working, but I shall say I'm quite satisfied about myself.
 
-That wait feels like exhaustion. It doesn't look like the inspirational film scenes they show on state television. It’s not a smiling child holding a brand-new book. It's tired bones. It’s the dull ache behind the eyes after eight hours of mock exams.
-
 University awaits, but the major remains a mystery. Computer science? Biology? Engineering? Something I haven't even heard of yet. I'm eighteen. How am I supposed to know what I want to do with the rest of my life? But whatever it is, I'm picking it because it feels like a weapon. These fields belong to the elite, or so they say. Kids raised on private tutors and MacBooks. Textbooks that cost more than my mother’s monthly pension. Jargon designed to shut people like me out before we even open our mouths.
 
 But here's the thing they don't teach you in those fancy prep schools. Formulas don't check your postcode. A poem doesn't care if your father is a farmer or a factory boss. Code, physics, history—the truth stays cold, hard, and indifferent. Work harder. Stay up later. Bleed more ink. Match them. That’s the only fairness left in a world that is otherwise rigged.
