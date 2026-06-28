@@ -94,3 +94,5 @@ They are whispered in dialects, in kitchens, in villages, in accents that refuse
 East Asia is famous for its overpopulation. There is, of course, no denial that a larger population boosts business, but too many people bring about intense competitions.
 
 **Coming soon**
+
+**Disclaimer: This piece was drafted originally by the author in English and subsequently polished with the help of AI.**
