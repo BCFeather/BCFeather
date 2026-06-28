@@ -95,4 +95,4 @@ East Asia is famous for its overpopulation. There is, of course, no denial that 
 
 **Coming soon**
 
-**Disclaimer: This piece was drafted originally by the author in English and subsequently polished with the help of AI.**
+**Disclaimer: These pieces were drafted originally by the author in English and subsequently polished with the help of AI.**
