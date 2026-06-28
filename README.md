@@ -1,5 +1,6 @@
 Hi, I’m **[@BCFeather ](https://github.com/BCFeather)**, a college student from Anhui, China.
 
+I'm thinking social issues in China and around the world. Hopefully, by tackling them, we can make the world a better place.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
@@ -85,11 +86,11 @@ So yes, let us promote Mandarin. Let us build high-speed rails and 5G networks. 
 
 But we must leave room for the sounds that do not fit the broadcast standard.
 
-Sometimes, the most important things are not said in perfect Mandarin.
+*Sometimes, the most important things are not said in perfect Mandarin.*
 
 They are whispered in dialects, in kitchens, in villages, in accents that refuse to disappear. They are encoded in the way a grandmother folds a dumpling, in how a farmer predicts the weather by observing the shape of a cloud, in the way a community repairs a bridge after a storm. These are the algorithms of resilience. These are the codes that have kept civilisations alive through famine, war, and revolution.
 
-Let the dialects live. Let the customs breathe. Let the 'embarrassing provinces' speak. Within their voices, we may hear not just echoes of the past, but solutions to the problems of tomorrow.
+*Let the dialects live. Let the customs breathe. Let the 'embarrassing provinces' speak.* Within their voices, we may hear not just echoes of the past, but solutions to the problems of tomorrow.
 
 # Are we pushing ourselves too hard?
 East Asia is famous for its overpopulation. There is, of course, no denial that a larger population boosts business, but too many people bring about intense competitions.
