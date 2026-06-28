@@ -22,7 +22,7 @@ Education in China is calling on us to make a change.
 
 Maybe the change begins with us answering that call.
 
-# The root: dialects, tradition and customs
+# The root: dialects
 Anhui embraces a vast combination of different Chinese dialects, ranging from Zhongyuan Mandarin, Jianghuai Mandarin, Gan, Wu and Hui, which are more heard, to Min, Hakka and Shehua, which are lesser used and only appear in a few isolated regions.
 
 These dialects themselves, however, are not isolated. They influence each other. As dialects distribute randomly in the Province, the types of combined dialects, and the degree to which they influence each other, result in the diversity of dialects in Anhui. In my city Chizhou, for example, Gan, Jianghuai Mandarin and Wu can all be heard here.
